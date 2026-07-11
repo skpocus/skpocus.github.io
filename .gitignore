@@ -1,0 +1,27 @@
+# Editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+*.log
+
+# Local build or cache output
+node_modules/
+dist/
+build/
+.cache/
+_site/
+
+# Source/reference assets
+Source/
